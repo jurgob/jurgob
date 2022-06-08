@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jurgob
 - 👀 I’m interested in javascript, react, isomorphic javascript, microservices, node.js, event driven architecture, CQRS
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me http://jurgo.me
 
 <!---
